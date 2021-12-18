@@ -1,4 +1,4 @@
-# flutter_api
+# flutter_movie app
 
 A new Flutter project.
 
